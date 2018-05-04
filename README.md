@@ -12,7 +12,7 @@
 
 ## Liên kết
 
-* [Link bài online](https://tiennguyen98.github.io/BS4SASS_Nguyen-Tien)
+* [Link bài online](https://tiennguyen98.github.io/BS4SASS_Nguyen-Tien/index.html)
 
 ## Kiến thức nắm được
 * Biết download và sử dụng Bootstrap 4 cơ bản
